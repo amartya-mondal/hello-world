@@ -1,4 +1,4 @@
 # hello-world
-trying out what is github
-My name is amartya. I am a student in iit patna
-my ambitions are very high. I dont know how much i can achieve.
+trying out what is Github
+My name is amartya. I am a student in IIT Patna.
+My ambitions are very high. I don't know, how much I can achieve?
